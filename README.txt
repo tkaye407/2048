@@ -4,6 +4,6 @@ This was made mostly to learn more about JAVA GUI's and to experiment with diffe
 
 How to set up: 
 
-1) pull repository using link above
+1) git clone https://github.com/tkaye407/2048.git
 2) javac Game.java
 3) java Game
